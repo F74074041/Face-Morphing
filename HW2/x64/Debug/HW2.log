@@ -1,0 +1,16 @@
+﻿已經開始建置於 2022/4/11 下午 04:52:19。
+     1>節點 2 (Build 目標) 上的專案 "D:\last\CGAP\Hw2\HW2\HW2\HW2.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\HW2.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt HW2Dlg.cpp
+         HW2Dlg.cpp
+       Link:
+         C:\Program Files (x86)\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\last\CGAP\Hw2\HW2\x64\Debug\HW2.exe" /INCREMENTAL /NOLOGO opencv_world331d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"D:\last\CGAP\Hw2\HW2\x64\Debug\HW2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\last\CGAP\Hw2\HW2\x64\Debug\HW2.lib" /MACHINE:X64 x64\Debug\HW2.res
+         x64\Debug\HW2.obj
+         x64\Debug\HW2Dlg.obj
+         x64\Debug\stdafx.obj
+         HW2.vcxproj -> D:\last\CGAP\Hw2\HW2\x64\Debug\HW2.exe
+     1>專案 "D:\last\CGAP\Hw2\HW2\HW2\HW2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.56
