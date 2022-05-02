@@ -8,5 +8,5 @@ Visual Studio 2015、OpenCV 3.3.1
 > 
 > ![](https://i.imgur.com/IMpBa6i.png) ![](https://i.imgur.com/wMIiYhQ.png)
 ## 輸出結果
-
+> ![](https://github.com/F74074041/Face-Morphing/blob/ff2558fd6aa68a56c563951dc4bae8aa6108fa7f/(53).png)
 
